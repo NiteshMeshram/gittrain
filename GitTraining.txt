@@ -1,3 +1,5 @@
 Github Training date 20  July 2014 - changes date
 
 Added new line of code
+
+Line third added
